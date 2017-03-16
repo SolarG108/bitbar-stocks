@@ -1,3 +1,3 @@
-# BitBar Finance
+# BitBar Stock 
 
-BitBar plugin for financial data.
+BitBar plugin for ticker data.
